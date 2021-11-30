@@ -1,5 +1,5 @@
 Programming Assignment 6
-Due: Mon Dec 7, 11:59 pm
+
 
 Note This assignment will include a separate presentation component. See the section below for presentation requirements.
 
